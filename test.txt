@@ -1,5 +1,13 @@
-Hello, eaeat
+add .
 
-lkslfhlfhslkdhf
+status
 
-dfsfsafszgfargzgrzg
+log
+
+commit
+
+push
+
+branch -d <name>
+
+checkout -b <name> //Make sure you are not on branch before doing anything with branches
